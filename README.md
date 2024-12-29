@@ -1,4 +1,4 @@
-<p>><h1 align=center><img alt="Hand" src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width='40'/>Hey There!<img alt="Hand" src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width='40'/></h1> <h2 align=center>I'm ZAKARIA MUJUR PRASETYO</h2></p>>
+<p><h1 align=center><img alt="Hand" src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width='40'/>Hey There!<img alt="Hand" src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width='40'/></h1> <h2 align=center>I'm ZAKARIA MUJUR PRASETYO</h2></p>
 
 ## 👨🏻‍💻 &nbsp;About Me
 
@@ -43,8 +43,9 @@
 
 
 
+#### Versi Bahasa Indonesia
 
-<p>><h1 align=center><img alt="Hand" src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width='40'/>Halo Semua!<img alt="Hand" src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width='40'/></h1> <h2 align=center> Saya ZAKARIA MUJUR PRASETYO</h2></p>
+<p><h1 align=center><img alt="Hand" src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width='40'/>Halo Semua!<img alt="Hand" src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width='40'/></h1> <h2 align=center> Saya ZAKARIA MUJUR PRASETYO</h2></p>
 
 ## 👨🏻‍💻 &nbsp;Tentang Saya
 
