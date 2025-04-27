@@ -36,9 +36,9 @@
 <p align="center">
 <a href="https://portfoliozakaria.my.id"><img src="https://img.shields.io/badge/-portfoliozakaria.my.id-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/zakariamujurprasetyo"><img src="https://img.shields.io/badge/-Zakaria Mujur Prasetyo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:zakariamujurprasetyo@gmail.com"><img src="https://img.shields.io/badge/-zakariamujurprasetyo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/zakaria_design"><img src="https://img.shields.io/badge/-@zakaria_design-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/zakariaprasetyo"><img src="https://img.shields.io/badge/-@zakariaprasetyo-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:zakariamujur6@gmail.com"><img src="https://img.shields.io/badge/-zakariamujur6@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/zekksparow"><img src="https://img.shields.io/badge/-@zekksparow-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/zekksparrow"><img src="https://img.shields.io/badge/-@zekksparrows-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 
