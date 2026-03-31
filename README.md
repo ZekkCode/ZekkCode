@@ -76,7 +76,7 @@
 ### 💌 Love Letter LNK
 
 <!-- START_LNK_EN -->
-* <sub>**[.github](https://github.com/Love-Letter-LNK/.github)** &nbsp; *(🌱 Created: 27 Mar 2026 | 🕐 Last commit: 27 Mar 2026)*<br>Ruang digital khusus untuk Lia Nur Khasanah (LNK). Repository ini adalah rumah bagi berbagai project web romantis, kejutan manis, gift virtual, dan portofolio perjalanan kita bersama. ✨</sub>
+* <sub>**[.github](https://github.com/Love-Letter-LNK/.github)** &nbsp; *(🌱 Created: 27 Mar 2026 | 🕐 Last commit: 27 Mar 2026)*<br>Ruang digital khusus untuk Lia Nur Khasanah (LNK).✨</sub>
 * <sub>**[WebGarden LiaAka](https://github.com/Love-Letter-LNK/WebGarden-LiaAka)** &nbsp; *(🌱 Created: 26 Jan 2026 | 🕐 Last commit: 02 Feb 2026)*<br>No description provided</sub>
 * <sub>**[Love LetterLNK16Nov2025](https://github.com/Love-Letter-LNK/Love-LetterLNK16Nov2025)** &nbsp; *(🌱 Created: 16 Nov 2025 | 🕐 Last commit: 16 Nov 2025)*<br>No description provided</sub>
 * <sub>**[WebSpecialForYouLNK](https://github.com/Love-Letter-LNK/WebSpecialForYouLNK)** &nbsp; *(🌱 Created: 18 Sep 2025 | 🕐 Last commit: 26 Sep 2025)*<br>No description provided</sub>
