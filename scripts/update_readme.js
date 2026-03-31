@@ -41,18 +41,12 @@ function generateMarkdown(repos, isIndo) {
 
 async function run() {
   try {
-    console.log("Fetching repositories from API...");
-    // Fetch user repos and filter out the profile README repo itself
-    let zekkCodeRepos = await fetchRepos('/users/ZekkCode/repos?sort=pushed&per_page=15');
-    zekkCodeRepos = zekkCodeRepos.filter(r => r.name.toLowerCase() !== 'zekkcode' && r.name.toLowerCase() !== '.github').slice(0, 9);
-    
-    // Fetch orgs
+    console.log("Fetching org repositories from API...");
+    // Only fetch orgs, ignoring the main personal ZekkCode repos
     let zekkStoreRepos = await fetchRepos('/orgs/zekkstore-dev/repos?sort=pushed');
     let lnkRepos = await fetchRepos('/orgs/Love-Letter-LNK/repos?sort=pushed');
     
     const marks = {
-      'ZEKKCODE_EN': generateMarkdown(zekkCodeRepos, false),
-      'ZEKKCODE_ID': generateMarkdown(zekkCodeRepos, true),
       'ZEKKSTORE_EN': generateMarkdown(zekkStoreRepos, false),
       'ZEKKSTORE_ID': generateMarkdown(zekkStoreRepos, true),
       'LNK_EN': generateMarkdown(lnkRepos, false),

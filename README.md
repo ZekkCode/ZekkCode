@@ -40,21 +40,21 @@
 
 ## 📂 &nbsp;My Repositories
 > Repositories sorted by **latest commit date** 🕐
-<!-- START_ZEKKCODE_EN -->
-* <sub>**[ZEDD Zekk External Downloader Drive](https://github.com/ZekkCode/ZEDD-Zekk-External-Downloader-Drive)** &nbsp; *(🌱 Created: 30 Mar 2026 | 🕐 Last commit: 30 Mar 2026)*<br>ZEDD  (Zekk External Downloader Drive)</sub>
-* <sub>**[Pendata](https://github.com/ZekkCode/Pendata)** &nbsp; *(🌱 Created: 11 Feb 2026 | 🕐 Last commit: 16 Mar 2026)*<br>Repository ini dibuat untuk Mata Kuliah Penambangan Data Kelas A di Semester 4 Program Studi Teknik Informatika</sub>
-* <sub>**[WebGarden LiaAka](https://github.com/ZekkCode/WebGarden-LiaAka)** &nbsp; *(🌱 Created: 27 Jan 2026 | 🕐 Last commit: 27 Jan 2026)*<br>Personal fork for development, experiments, and customization of WebGardenLiaAka.</sub>
-* <sub>**[Bank TugasProject Kuliah](https://github.com/ZekkCode/Bank-TugasProject-Kuliah)** &nbsp; *(🌱 Created: 19 Jan 2025 | 🕐 Last commit: 04 Jan 2026)*<br>Ini adalah Reposirtory Saya mengenai tugas tugas selama saya menempuh Sarjana Teknik Informatika di Universitas Trunojoyo Madura, Sebagai Pembelajaran dan Penyimpanan agar tidak lupa untuk Ilmu Ilmu yang saya peroleh!</sub>
-* <sub>**[freeakun](https://github.com/ZekkCode/freeakun)** &nbsp; *(🌱 Created: 03 Jan 2026 | 🕐 Last commit: 01 Jan 2026)*<br>No description provided</sub>
-* <sub>**[skills communicate using markdown](https://github.com/ZekkCode/skills-communicate-using-markdown)** &nbsp; *(🌱 Created: 29 Dec 2025 | 🕐 Last commit: 29 Dec 2025)*<br>Exercise: Communicate using Markdown</sub>
-* <sub>**[skills introduction to codeql](https://github.com/ZekkCode/skills-introduction-to-codeql)** &nbsp; *(🌱 Created: 29 Dec 2025 | 🕐 Last commit: 29 Dec 2025)*<br>Exercise: Introduction to CodeQL</sub>
-* <sub>**[skills introduction to git](https://github.com/ZekkCode/skills-introduction-to-git)** &nbsp; *(🌱 Created: 28 Dec 2025 | 🕐 Last commit: 29 Dec 2025)*<br>Exercise: Introduction to Git</sub>
-* <sub>**[trevio project](https://github.com/ZekkCode/trevio-project)** &nbsp; *(🌱 Created: 06 Dec 2025 | 🕐 Last commit: 16 Dec 2025)*<br>No description provided</sub>
-<!-- END_ZEKKCODE_EN -->
+* <sub>**[ZEDD Zekk External Downloader Drive](https://github.com/ZekkCode/ZEDD-Zekk-External-Downloader-Drive)** &nbsp; *(🌱 Created: 30 Mar 2026 | 🕐 Last commit: 30 Mar 2026)*<br>Cloud video downloader with MVC pattern and Google Drive support</sub>
+* <sub>**[Bank Tugas Project Kuliah](https://github.com/ZekkCode/Bank-TugasProject-Kuliah)** &nbsp; *(🌱 Created: 19 Jan 2025 | 🕐 Last commit: 04 Jan 2026)*<br>Collection of my college assignments at UTM for learning purposes</sub>
+* <sub>**[Trevio Project](https://github.com/ZekkCode/trevio-project)** &nbsp; *(🌱 Created: 06 Dec 2025 | 🕐 Last commit: 16 Dec 2025)*<br>Travel agency app built with Laravel based on Trevio</sub>
+* <sub>**[ZekkTech Wordpress](https://github.com/ZekkCode/ZekkTechWordpress)** &nbsp; *(🌱 Created: 20 Sep 2025 | 🕐 Last commit: 20 Sep 2025)*<br>Custom templates and plugins created for the ZekkTech main blog</sub>
+* <sub>**[Blog ZekkTech](https://github.com/ZekkCode/BlogZekkTech)** &nbsp; *(🌱 Created: 01 Aug 2025 | 🕐 Last commit: 07 Sep 2025)*<br>My tech blog platform using Laravel Blade to share articles</sub>
+* <sub>**[Bank Freelance ZekkStore](https://github.com/ZekkCode/Bank-Freelance_ZekkStore)** &nbsp; *(🌱 Created: 13 Jun 2025 | 🕐 Last commit: 13 Jun 2025)*<br>Archive of my freelance projects ranging from designs to papers</sub>
+* <sub>**[Download Video via Network Capture](https://github.com/ZekkCode/Download-Video-Lewat-Network-Capture)** &nbsp; *(🌱 Created: 16 May 2025 | 🕐 Last commit: 16 May 2025)*<br>Guide and Python code to grab HLS videos from browser network tabs</sub>
+* <sub>**[BotZekkStore Telegram](https://github.com/ZekkCode/BotZekkStoreTelegram)** &nbsp; *(🌱 Created: 16 Apr 2025 | 🕐 Last commit: 16 Apr 2025)*<br>Telegram bot allowing users to buy digital items directly from the app</sub>
+* <sub>**[Portofolio Web](https://github.com/ZekkCode/Portofolio_Web)** &nbsp; *(🌱 Created: 16 Jan 2025 | 🕐 Last commit: 16 Jan 2025)*<br>Personal portfolio website showing my UI/UX work and graphics</sub>
 
 <br/>
 
 > 📌 **Note:** The **Bank Tugas Project Kuliah** repo was originally duplicated, so it only appears once here.
+
+<br/>
 
 ***
 
@@ -159,17 +159,15 @@
 
 <br/>
 
-<!-- START_ZEKKCODE_ID -->
-* <sub>**[ZEDD Zekk External Downloader Drive](https://github.com/ZekkCode/ZEDD-Zekk-External-Downloader-Drive)** &nbsp; *(🌱 Dibuat: 30 Mar 2026 | 🕐 Terakhir update: 30 Mar 2026)*<br>ZEDD  (Zekk External Downloader Drive)</sub>
-* <sub>**[Pendata](https://github.com/ZekkCode/Pendata)** &nbsp; *(🌱 Dibuat: 11 Feb 2026 | 🕐 Terakhir update: 16 Mar 2026)*<br>Repository ini dibuat untuk Mata Kuliah Penambangan Data Kelas A di Semester 4 Program Studi Teknik Informatika</sub>
-* <sub>**[WebGarden LiaAka](https://github.com/ZekkCode/WebGarden-LiaAka)** &nbsp; *(🌱 Dibuat: 27 Jan 2026 | 🕐 Terakhir update: 27 Jan 2026)*<br>Personal fork for development, experiments, and customization of WebGardenLiaAka.</sub>
-* <sub>**[Bank TugasProject Kuliah](https://github.com/ZekkCode/Bank-TugasProject-Kuliah)** &nbsp; *(🌱 Dibuat: 19 Jan 2025 | 🕐 Terakhir update: 04 Jan 2026)*<br>Ini adalah Reposirtory Saya mengenai tugas tugas selama saya menempuh Sarjana Teknik Informatika di Universitas Trunojoyo Madura, Sebagai Pembelajaran dan Penyimpanan agar tidak lupa untuk Ilmu Ilmu yang saya peroleh!</sub>
-* <sub>**[freeakun](https://github.com/ZekkCode/freeakun)** &nbsp; *(🌱 Dibuat: 03 Jan 2026 | 🕐 Terakhir update: 01 Jan 2026)*<br>Tidak ada deskripsi</sub>
-* <sub>**[skills communicate using markdown](https://github.com/ZekkCode/skills-communicate-using-markdown)** &nbsp; *(🌱 Dibuat: 29 Des 2025 | 🕐 Terakhir update: 29 Des 2025)*<br>Exercise: Communicate using Markdown</sub>
-* <sub>**[skills introduction to codeql](https://github.com/ZekkCode/skills-introduction-to-codeql)** &nbsp; *(🌱 Dibuat: 29 Des 2025 | 🕐 Terakhir update: 29 Des 2025)*<br>Exercise: Introduction to CodeQL</sub>
-* <sub>**[skills introduction to git](https://github.com/ZekkCode/skills-introduction-to-git)** &nbsp; *(🌱 Dibuat: 28 Des 2025 | 🕐 Terakhir update: 29 Des 2025)*<br>Exercise: Introduction to Git</sub>
-* <sub>**[trevio project](https://github.com/ZekkCode/trevio-project)** &nbsp; *(🌱 Dibuat: 06 Des 2025 | 🕐 Terakhir update: 16 Des 2025)*<br>Tidak ada deskripsi</sub>
-<!-- END_ZEKKCODE_ID -->
+* <sub>**[ZEDD Zekk External Downloader Drive](https://github.com/ZekkCode/ZEDD-Zekk-External-Downloader-Drive)** &nbsp; *(🌱 Dibuat: 30 Mar 2026 | 🕐 Terakhir update: 30 Mar 2026)*<br>Aplikasi video downloader yang langsung nyambung ke Google Drive</sub>
+* <sub>**[Bank Tugas Project Kuliah](https://github.com/ZekkCode/Bank-TugasProject-Kuliah)** &nbsp; *(🌱 Dibuat: 19 Jan 2025 | 🕐 Terakhir update: 04 Jan 2026)*<br>Isinya kodingan tugas kuliahku selama di UTM buat arsip pribadi</sub>
+* <sub>**[Trevio Project](https://github.com/ZekkCode/trevio-project)** &nbsp; *(🌱 Dibuat: 06 Des 2025 | 🕐 Terakhir update: 16 Des 2025)*<br>Web travel agency modern dari framework Laravel hasil fork proyek Trevio</sub>
+* <sub>**[ZekkTech Wordpress](https://github.com/ZekkCode/ZekkTechWordpress)** &nbsp; *(🌱 Dibuat: 20 Sep 2025 | 🕐 Terakhir update: 20 Sep 2025)*<br>Kumpulan file tema sama plugin WordPress yang kubikin buat blog ZekkTech</sub>
+* <sub>**[Blog ZekkTech](https://github.com/ZekkCode/BlogZekkTech)** &nbsp; *(🌱 Dibuat: 01 Agu 2025 | 🕐 Terakhir update: 07 Sep 2025)*<br>Platform blog pribadi buat nulis artikel IT pakai Laravel Blade</sub>
+* <sub>**[Bank Freelance ZekkStore](https://github.com/ZekkCode/Bank-Freelance_ZekkStore)** &nbsp; *(🌱 Dibuat: 13 Jun 2025 | 🕐 Terakhir update: 13 Jun 2025)*<br>Kumpulan kerjaan freelance dari sekadar bikin logo sampai dokumen makalah</sub>
+* <sub>**[Download Video via Network Capture](https://github.com/ZekkCode/Download-Video-Lewat-Network-Capture)** &nbsp; *(🌱 Dibuat: 16 Mei 2025 | 🕐 Terakhir update: 16 Mei 2025)*<br>Panduan lengkap ambil video streaming HLS m3u8 lewat Network Tab</sub>
+* <sub>**[BotZekkStore Telegram](https://github.com/ZekkCode/BotZekkStoreTelegram)** &nbsp; *(🌱 Dibuat: 16 Apr 2025 | 🕐 Terakhir update: 16 Apr 2025)*<br>Bot Telegram buat bantu pelanggan beli produk ZekkStore langsung dari chat</sub>
+* <sub>**[Portofolio Web](https://github.com/ZekkCode/Portofolio_Web)** &nbsp; *(🌱 Dibuat: 16 Jan 2025 | 🕐 Terakhir update: 16 Jan 2025)*<br>Web portofolio yang majang hasil karyaku seputar UI UX dan grafis</sub>
 
 ***
 
@@ -180,6 +178,7 @@
 ### 🚀 zekkstore dev
 <!-- START_ZEKKSTORE_ID -->
 * <sub>**[ZEDD Zekk External Downloader Drive](https://github.com/zekkstore-dev/ZEDD-Zekk-External-Downloader-Drive)** &nbsp; *(🌱 Dibuat: 30 Mar 2026 | 🕐 Terakhir update: 30 Mar 2026)*<br>ZEDD  (Zekk External Downloader Drive)</sub>
+
 * <sub>**[.github](https://github.com/zekkstore-dev/.github)** &nbsp; *(🌱 Dibuat: 27 Mar 2026 | 🕐 Terakhir update: 27 Mar 2026)*<br>Official profile and portfolio of Zekkstore Dev  Freelance Custom Software & Web Development.</sub>
 <!-- END_ZEKKSTORE_ID -->
 
@@ -188,8 +187,11 @@
 ### 💌 Love Letter LNK
 <!-- START_LNK_ID -->
 * <sub>**[.github](https://github.com/Love-Letter-LNK/.github)** &nbsp; *(🌱 Dibuat: 27 Mar 2026 | 🕐 Terakhir update: 27 Mar 2026)*<br>Ruang digital khusus untuk Lia Nur Khasanah (LNK). Repository ini adalah rumah bagi berbagai project web romantis, kejutan manis, gift virtual, dan portofolio perjalanan kita bersama. ✨</sub>
+
 * <sub>**[WebGarden LiaAka](https://github.com/Love-Letter-LNK/WebGarden-LiaAka)** &nbsp; *(🌱 Dibuat: 26 Jan 2026 | 🕐 Terakhir update: 02 Feb 2026)*<br>Tidak ada deskripsi</sub>
+
 * <sub>**[Love LetterLNK16Nov2025](https://github.com/Love-Letter-LNK/Love-LetterLNK16Nov2025)** &nbsp; *(🌱 Dibuat: 16 Nov 2025 | 🕐 Terakhir update: 16 Nov 2025)*<br>Tidak ada deskripsi</sub>
+
 * <sub>**[WebSpecialForYouLNK](https://github.com/Love-Letter-LNK/WebSpecialForYouLNK)** &nbsp; *(🌱 Dibuat: 18 Sep 2025 | 🕐 Terakhir update: 26 Sep 2025)*<br>Tidak ada deskripsi</sub>
 <!-- END_LNK_ID -->
 
