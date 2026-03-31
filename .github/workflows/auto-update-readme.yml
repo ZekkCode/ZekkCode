@@ -1,0 +1,35 @@
+name: Update README Repositories
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs exactly at midnight UTC every day (00:00)
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
+
+permissions:
+  contents: write # Important: This allows the action to push changes back to the repository
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Fetch API and Map Repositories
+        run: node scripts/update_readme.js
+        
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto-update repository metadata 🚀"
+          branch: main
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
