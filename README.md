@@ -69,9 +69,8 @@
 ### 🚀 zekkstore dev
 
 <!-- START_ZEKKSTORE_EN -->
-* <sub>**[ZEDD Zekk External Downloader Drive](https://github.com/zekkstore-dev/ZEDD-Zekk-External-Downloader-Drive)** &nbsp; *(🌱 Created: 30 Mar 2026 | 🕐 Last commit: 30 Mar 2026)*<br>ZEDD  (Zekk External Downloader Drive)</sub>
-
-* <sub>**[.github](https://github.com/zekkstore-dev/.github)** &nbsp; *(🌱 Created: 27 Mar 2026 | 🕐 Last commit: 27 Mar 2026)*<br>Official profile and portfolio of Zekkstore Dev  Freelance Custom Software & Web Development.</sub>
+* <sub>**[ZEDD Zekk External Downloader Drive](https://github.com/zekkstore-dev/ZEDD-Zekk-External-Downloader-Drive)** &nbsp; *(🌱 Created: 29 Mar 2026 | 🕐 Last commit: 30 Mar 2026)*<br>ZEDD  (Zekk External Downloader Drive)</sub>
+* <sub>**[.github](https://github.com/zekkstore-dev/.github)** &nbsp; *(🌱 Created: 26 Mar 2026 | 🕐 Last commit: 26 Mar 2026)*<br>Official profile and portfolio of Zekkstore Dev  Freelance Custom Software & Web Development.</sub>
 <!-- END_ZEKKSTORE_EN -->
 
 <br/>
@@ -81,10 +80,10 @@
 ### 💌 Love Letter LNK
 
 <!-- START_LNK_EN -->
-* <sub>**[.github](https://github.com/Love-Letter-LNK/.github)** &nbsp; *(🌱 Created: 27 Mar 2026 | 🕐 Last commit: 27 Mar 2026)*<br>Ruang digital khusus untuk Lia Nur Khasanah (LNK).✨</sub>
-* <sub>**[WebGarden LiaAka](https://github.com/Love-Letter-LNK/WebGarden-LiaAka)** &nbsp; *(🌱 Created: 26 Jan 2026 | 🕐 Last commit: 02 Feb 2026)*<br>No description provided</sub>
+* <sub>**[.github](https://github.com/Love-Letter-LNK/.github)** &nbsp; *(🌱 Created: 26 Mar 2026 | 🕐 Last commit: 26 Mar 2026)*<br>Ruang digital khusus untuk Lia Nur Khasanah (LNK). Repository ini adalah rumah bagi berbagai project web romantis, kejutan manis, gift virtual, dan portofolio perjalanan kita bersama. ✨</sub>
+* <sub>**[WebGarden LiaAka](https://github.com/Love-Letter-LNK/WebGarden-LiaAka)** &nbsp; *(🌱 Created: 25 Jan 2026 | 🕐 Last commit: 01 Feb 2026)*<br>No description provided</sub>
 * <sub>**[Love LetterLNK16Nov2025](https://github.com/Love-Letter-LNK/Love-LetterLNK16Nov2025)** &nbsp; *(🌱 Created: 16 Nov 2025 | 🕐 Last commit: 16 Nov 2025)*<br>No description provided</sub>
-* <sub>**[WebSpecialForYouLNK](https://github.com/Love-Letter-LNK/WebSpecialForYouLNK)** &nbsp; *(🌱 Created: 18 Sep 2025 | 🕐 Last commit: 26 Sep 2025)*<br>No description provided</sub>
+* <sub>**[WebSpecialForYouLNK](https://github.com/Love-Letter-LNK/WebSpecialForYouLNK)** &nbsp; *(🌱 Created: 17 Sep 2025 | 🕐 Last commit: 26 Sep 2025)*<br>No description provided</sub>
 <!-- END_LNK_EN -->
 
 <br/>
@@ -186,22 +185,18 @@
 
 ### 🚀 zekkstore dev
 <!-- START_ZEKKSTORE_ID -->
-* <sub>**[ZEDD Zekk External Downloader Drive](https://github.com/zekkstore-dev/ZEDD-Zekk-External-Downloader-Drive)** &nbsp; *(🌱 Dibuat: 30 Mar 2026 | 🕐 Terakhir update: 30 Mar 2026)*<br>ZEDD  (Zekk External Downloader Drive)</sub>
-
-* <sub>**[.github](https://github.com/zekkstore-dev/.github)** &nbsp; *(🌱 Dibuat: 27 Mar 2026 | 🕐 Terakhir update: 27 Mar 2026)*<br>Official profile and portfolio of Zekkstore Dev  Freelance Custom Software & Web Development.</sub>
+* <sub>**[ZEDD Zekk External Downloader Drive](https://github.com/zekkstore-dev/ZEDD-Zekk-External-Downloader-Drive)** &nbsp; *(🌱 Dibuat: 29 Mar 2026 | 🕐 Terakhir update: 30 Mar 2026)*<br>ZEDD  (Zekk External Downloader Drive)</sub>
+* <sub>**[.github](https://github.com/zekkstore-dev/.github)** &nbsp; *(🌱 Dibuat: 26 Mar 2026 | 🕐 Terakhir update: 26 Mar 2026)*<br>Official profile and portfolio of Zekkstore Dev  Freelance Custom Software & Web Development.</sub>
 <!-- END_ZEKKSTORE_ID -->
 
 > 💡 **Info:** Organisasi yang satu ini dibangun khusus untuk freelance tech services.
 
 ### 💌 Love Letter LNK
 <!-- START_LNK_ID -->
-* <sub>**[.github](https://github.com/Love-Letter-LNK/.github)** &nbsp; *(🌱 Dibuat: 27 Mar 2026 | 🕐 Terakhir update: 27 Mar 2026)*<br>Ruang digital khusus untuk Lia Nur Khasanah (LNK). Repository ini adalah rumah bagi berbagai project web romantis, kejutan manis, gift virtual, dan portofolio perjalanan kita bersama. ✨</sub>
-
-* <sub>**[WebGarden LiaAka](https://github.com/Love-Letter-LNK/WebGarden-LiaAka)** &nbsp; *(🌱 Dibuat: 26 Jan 2026 | 🕐 Terakhir update: 02 Feb 2026)*<br>Tidak ada deskripsi</sub>
-
+* <sub>**[.github](https://github.com/Love-Letter-LNK/.github)** &nbsp; *(🌱 Dibuat: 26 Mar 2026 | 🕐 Terakhir update: 26 Mar 2026)*<br>Ruang digital khusus untuk Lia Nur Khasanah (LNK). Repository ini adalah rumah bagi berbagai project web romantis, kejutan manis, gift virtual, dan portofolio perjalanan kita bersama. ✨</sub>
+* <sub>**[WebGarden LiaAka](https://github.com/Love-Letter-LNK/WebGarden-LiaAka)** &nbsp; *(🌱 Dibuat: 25 Jan 2026 | 🕐 Terakhir update: 01 Feb 2026)*<br>Tidak ada deskripsi</sub>
 * <sub>**[Love LetterLNK16Nov2025](https://github.com/Love-Letter-LNK/Love-LetterLNK16Nov2025)** &nbsp; *(🌱 Dibuat: 16 Nov 2025 | 🕐 Terakhir update: 16 Nov 2025)*<br>Tidak ada deskripsi</sub>
-
-* <sub>**[WebSpecialForYouLNK](https://github.com/Love-Letter-LNK/WebSpecialForYouLNK)** &nbsp; *(🌱 Dibuat: 18 Sep 2025 | 🕐 Terakhir update: 26 Sep 2025)*<br>Tidak ada deskripsi</sub>
+* <sub>**[WebSpecialForYouLNK](https://github.com/Love-Letter-LNK/WebSpecialForYouLNK)** &nbsp; *(🌱 Dibuat: 17 Sep 2025 | 🕐 Terakhir update: 26 Sep 2025)*<br>Tidak ada deskripsi</sub>
 <!-- END_LNK_ID -->
 
 <br/>
