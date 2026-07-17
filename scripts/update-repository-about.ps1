@@ -10,6 +10,9 @@ if (-not (Get-Command gh -ErrorAction SilentlyContinue)) {
 }
 
 gh auth status | Out-Null
+if ($LASTEXITCODE -ne 0) {
+    throw "GitHub CLI belum terautentikasi. Jalankan: gh auth login"
+}
 
 $repositories = @(
     [pscustomobject]@{ Name = "ZekkCode"; Description = "Profile Repository • Personal GitHub profile showcasing selected projects, skills, and professional interests."; Topics = @("github-profile", "portfolio", "ui-ux", "frontend", "informatics") },
@@ -67,12 +70,19 @@ foreach ($item in $repositories) {
 
     try {
         gh repo edit $repo --description $item.Description
+        if ($LASTEXITCODE -ne 0) {
+            throw "Gagal memperbarui description."
+        }
 
         $payload = @{ names = $item.Topics } | ConvertTo-Json -Compress
         $payload | gh api --method PUT `
             -H "Accept: application/vnd.github+json" `
             -H "X-GitHub-Api-Version: 2022-11-28" `
             "repos/$repo/topics" --input - | Out-Null
+
+        if ($LASTEXITCODE -ne 0) {
+            throw "Description berhasil, tetapi topics gagal diperbarui."
+        }
 
         Write-Host "Success" -ForegroundColor Green
         $success++
